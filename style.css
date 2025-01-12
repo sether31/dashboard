@@ -31,6 +31,9 @@
     --yellow: #F0B429;
 }
 
+::-webkit-scrollbar{
+    display: none;
+}
 
 img{
     max-width: 100%;
